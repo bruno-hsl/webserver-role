@@ -8,7 +8,6 @@ Este projeto contém uma **role Ansible** para configurar servidores web com Ngi
 
 - `hosts` – Arquivo de inventário com os endereços IP dos servidores.
 - `playbooks/setup.yml` – Playbook principal que instala e configura o Nginx.
-- `roles/` – Pasta onde futuras roles podem ser adicionadas.
 
 ---
 
