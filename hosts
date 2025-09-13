@@ -1,0 +1,8 @@
+[servidores]
+172.238.200.174
+172.238.200.169
+172.238.200.166
+
+[all:vars]
+ansible_user=root
+ansible_python_interpreter=/usr/bin/python3
